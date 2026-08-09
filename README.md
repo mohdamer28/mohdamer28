@@ -1,3 +1,5 @@
+##ABOUT ME
+
 My name is MOHD Amer, and I am 21 years old. I am currently pursuing a Bachelor's degree in Information Technology Engineering. I am passionate about technology and continuously improving my skills in MERN Stack development and Artificial Intelligence Engineer. I enjoy building innovative projects, solving real-world problems, and learning new technologies to grow as a software developer.
 💻 Regularly build full-stack web applications using the MERN Stack.
 🤖 Explore Artificial Intelligence and Computer Vision through hands-on projects.
